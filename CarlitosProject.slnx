@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CarlitosProject/CarlitosProject.vcxproj" Id="c3bbf05b-612d-4db0-a3ed-8de32b0a87ef" />
+</Solution>

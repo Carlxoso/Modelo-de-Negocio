@@ -1,0 +1,22 @@
+Cliente: Consumidor Final
+Productos:
+- Monitor Dell 24" | Cantidad: 3 | Precio: $200
+- Mouse Dell Inalambrico | Cantidad: 5 | Precio: $25
+Total: $727.375
+---------------------------------------------
+Cliente: Consumidor Final
+Productos:
+- Monitor Dell 24" | Cantidad: 3 | Precio: $200
+Total: $655.5
+---------------------------------------------
+Cliente: Consumidor Final
+Productos:
+- Monitor Dell 24" | Cantidad: 3 | Precio: $200
+Total: $655.5
+---------------------------------------------
+Cliente: Consumidor Final
+Productos:
+- Monitor Dell 24" | Cantidad: 3 | Precio: $200
+- Cargador Dell 65W | Cantidad: 43 | Precio: $60
+Total: $3375.25
+---------------------------------------------
